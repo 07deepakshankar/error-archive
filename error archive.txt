@@ -28,3 +28,20 @@ Solution: Create a sub-folder "images" in static folder
 
 *************************************************************************************************************************************************************************
 
+22/08/2022
+(CRUD app using MongoDB in flask and jinja)
+
+(Couldn't activate environmental variables)
+PS C:\Users\Dell\Desktop\Todoapp> python -m venv env
+PS C:\Users\Dell\Desktop\Todoapp> source env/bin/activate
+source : The term 'source' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and 
+try again.
+At line:1 char:1
++ source env/bin/activate
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (source:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+    
+***********************************************************************************************************************************************************************
+ 
